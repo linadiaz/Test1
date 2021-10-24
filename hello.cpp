@@ -10,7 +10,7 @@ using namespace std;
 
 
 int main() {
-    cout<<"Hello My People" <<endl;
+    cout<<"Hello There" <<endl;
  
     return 0;
 }
